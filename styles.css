@@ -30,9 +30,13 @@ main {
   overflow: hidden;
 }
 
+.image{
+  display: block;
+}
+
 section {
   width: 120vw;
-  font-size: 5em;
+  font-size: 3em;
   line-height: 1em;
   background: #FDF9D8;
   font-family: 'Poppins', sans-serif;
